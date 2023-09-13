@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">MyToDoApp</string>
+    <string name="web_clien_id" translatable="false">864608398859-9hjjdc261a3gofv6no2omotaa3rl8dej.apps.googleusercontent.com</string>
+    <string name="no_todos_for_today">No todos for today</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="settings">Settings</string>
+    <string name="language">"Language: "</string>
+    <string name="todo_dairy">Diary of todos</string>
+    <string name="forgotten_todo">Forgotten todos</string>
+</resources>

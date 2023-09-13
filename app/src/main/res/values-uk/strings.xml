@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_todos_for_today">В цей день справ немає</string>
+    <string name="today">Сьогодні</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="settings">Налаштування</string>
+    <string name="language">"Мова: "</string>
+    <string name="todo_dairy">Щоденник справ</string>
+    <string name="forgotten_todo">Забуті справи</string>
+</resources>
